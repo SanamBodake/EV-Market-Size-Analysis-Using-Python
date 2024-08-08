@@ -13,5 +13,6 @@ The primary objective of this analysis is to leverage historical EV registration
 4. Estimate the market size and growth potential of the EV market for upcoming years.
 5. Provide insights to support stakeholders in decision-making processes related to production, infrastructure planning, and policy formulation.
 
-Data Source: [data.gov](https://data.gov/)
-For detailed analysis check [EV Market Size Analysis notebook](https://github.com/SanamBodake/EV-Market-Size-Analysis-Using-Python/blob/main/notebook/EV%20Market%20Size%20Analysis.ipynb)
+Data Source: [data.gov](https://data.gov/).
+
+For detailed analysis check [EV Market Size Analysis notebook](https://github.com/SanamBodake/EV-Market-Size-Analysis-Using-Python/blob/main/notebook/EV%20Market%20Size%20Analysis.ipynb).
